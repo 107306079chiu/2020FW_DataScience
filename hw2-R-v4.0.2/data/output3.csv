@@ -1,0 +1,5 @@
+method,sensitivity,specificity,F1,logLikelihood,pseudo_R2
+method2,0.67,0.27,0.63,-42.13,-0.62
+method4,0.62,0.47,0.64,-34.21,-0.32
+method6,0.62,0.27,0.6,-41.77,-0.61
+max,method2,method4,method4,method4,method4
