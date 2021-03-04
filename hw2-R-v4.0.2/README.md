@@ -1,4 +1,4 @@
-# hw2 :  evalute a mode for predicting loans that are about to default
+# hw2 :  evaluate a mode for predicting loans that are about to default
 
 ```R
 Rscript hw2.R --target bad --badthre 0.5 --input data/method1.csv data/method2.csv --output data/output1.csv
