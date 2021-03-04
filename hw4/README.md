@@ -6,8 +6,8 @@
 
 * **Please use R version 3.6.3**
 
-![pcaExample](/images/img2.png)
+![pcaExample](images/img2.png)
 
 https://changlab.shinyapps.io/ggvisExample/
 
-![ggvisExample](/images/img1.png)
+![ggvisExample](images/img1.png)
